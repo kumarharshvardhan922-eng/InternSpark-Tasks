@@ -1,10 +1,13 @@
-Goal
-Create an automation script that performs file operations, renaming, sorting, or cleaning tasks.
+Objective
 
-Requirements
-Use OS module & exception handling
-Generate logs for operations
-Add user input support
-Deliverables
-GitHub source code
-Sample input/output
+Learn Python fundamentals, backend scripting, API integration, automation, and data handling. These tasks help interns master Python by building real-world projects.
+
+Features
+
+Python scripting & automation
+
+Data handling using Pandas
+
+API fetching & JSON parsing
+
+File handling & exception management
